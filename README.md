@@ -1,12 +1,13 @@
-#### Corrido of Chalchiuhtlicue
+### Corrido of Chalchiuhtlicue
+-----
+
 An attempt at a cli based aquarium planning calculator written in python
 
 release coming soon. currently not operational but being worked on
 
 -----
 
-_________________________________________________________________________
-###Steps to run on ubuntu:
+### Steps to run on ubuntu:
 
 There are prereq installs for pip but currently I do not know which. Once Ive had a chance to look into that this will be updated
 
@@ -20,15 +21,14 @@ There are prereq installs for pip but currently I do not know which. Once Ive ha
 
 
 -----
-###Note to Consider
+
+### Note to Consider
 When editting files using this program it does not consider readability for later at times. This is something which I will need to fix later but for now this means if you edit something wrong you will have to be the one to fix it and it might not be obvious how its wrong to anyone else. So when possible its best to stick to edits which you are confident in making
 
 _________________________________________________________________________
-###Information referenced within
-_______________
+### Information referenced within
 
 [this is the equation used for food mg to ammonia ppm used](https://www.sosofishy.com/post/how-to-calculate-how-much-your-feeding-produces)
-
 
 [this is a page used to research food as well. useful for creating the initial food cards](https://aquariumscience.org/index.php/3-6-1-dry-fish-food-in-depth/)
 
