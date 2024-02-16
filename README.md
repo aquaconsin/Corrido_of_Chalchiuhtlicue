@@ -15,8 +15,8 @@ There are prereq installs for pip but currently I do not know which. Once Ive ha
   2. python3 ./fishcalc.py
        The program will then begin creating its own file tree within which it will operate
        when the main menu is brought up if you have cards already you can exit and continue preparations
-  3. If you have cards to use to start with this is where you add them. otherwise this will be where you will do initial setup
-    A. If you have cards sorted into folders already you can add them or if you they arent sorted you can add them to the import folder and then run it inside the program
+  3. If you have cards to use to start with this is where you add them. Otherwise this will be where you will do initial setup
+    A. If you have cards sorted into folders already you can add them or if you they arent sorted you can add them to the import folder and then it will run during the next program start.
     B. If you do not have any cards you may have to open the card viewer option and create them. The optimal order to create them in is going category by category for food, fish, tank, fishroom so that you wind up backtracking the least adding things later.
 
 
