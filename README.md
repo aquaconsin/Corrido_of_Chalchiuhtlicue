@@ -12,7 +12,7 @@ release coming soon. currently not operational but being worked on
 There are prereq installs for pip but currently I do not know which. Once Ive had a chance to look into that this will be updated
 
   1. Copy the python file to its own folder
-  2. python3 ./fishcalc.py
+  2. 'python3 ./fishcalc.py'
        The program will then begin creating its own file tree within which it will operate
        when the main menu is brought up if you have cards already you can exit and continue preparations
   3. If you have cards to use to start with this is where you add them. Otherwise this will be where you will do initial setup
