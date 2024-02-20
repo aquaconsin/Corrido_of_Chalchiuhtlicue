@@ -12,7 +12,7 @@ The settings file like all other files should be able to be editted both in the 
 
 Exit the program using `CTRL + C`
 
-# Steps to run on ubuntu:
+### Steps to run on ubuntu:
 
 There are prereq installs for pip but currently I do not know which. Once Ive had a chance to look into that this will be updated
 
