@@ -16,7 +16,7 @@ Exit the program using `CTRL + C`
 
 There are prereq installs for pip but currently I do not know which. Once Ive had a chance to look into that this will be updated
 
-  1. Copy the python file to its own folder
+  1. Copy the project files to their own folder
   2. `python3 ./fishcalc.py`
      
        The program will then begin creating its own file tree within which it will operate
@@ -25,6 +25,15 @@ There are prereq installs for pip but currently I do not know which. Once Ive ha
   3. If you have cards to use to start with this is where you add them. Otherwise this will be where you will do initial setup
     A. If you have cards sorted into folders already you can add them or if you they arent sorted you can add them to the import folder and then it will run during the next program start.
     B. If you do not have any cards you may have to open the card viewer option and create them. The optimal order to create them in is going category by category for food, fish, tank, fishroom so that you wind up backtracking the least adding things later.
+
+### Steps to run on windows/macos:
+Currently do not have access to either of these nor an interest in them. If someone knows how to run this on those and can tell me a tutorial on I will eventually get to adding those here
+My understanding as it stands is that these are the steps on windows at least:
+  1. Install python 3
+  2. Install pip
+  3. Install requirements (stated above maybe)
+  4. Open command line
+  5. type in `python3 ./fishcalc.py` and it should run? (I have never attempted this before but read some other github pages)
 
 -----
 
