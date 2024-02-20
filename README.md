@@ -1,5 +1,4 @@
 # Corrido of Chalchiuhtlicue
------
 
 An attempt at a cli based aquarium planning calculator written in python
 
