@@ -48,7 +48,8 @@ _________________________________________________________________________
 [this is a page used to research food as well. useful for creating the initial food cards](https://aquariumscience.org/index.php/3-6-1-dry-fish-food-in-depth/)
 
 
-
+## Major issues not yet fixed
+Currently theres an issue with showing tables incorrectly when not showing in fullscreen. At some point I plan to fix this but currently theres other issues that Im working on. If anyone has advice on code to change to fix that please open it as an issue with your advice
 
 
 
