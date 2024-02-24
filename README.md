@@ -8,7 +8,7 @@ release coming soon. currently not operational but being worked on
 
 ## Usage:
 
-The settings file like all other files should be able to be editted both in the program as well as by hand via a txt editor
+The settings file should be able to be editted both in the program as well as by hand via a txt editor as well as many of the aqu files but be careful not to break the functionality
 
 Exit the program using `CTRL + C`
 
@@ -53,7 +53,8 @@ _________________________________________________________________________
 >[!WARNING]
 > 1. Currently theres an issue with showing tables incorrectly when not showing in fullscreen. At some point I plan to fix this but currently theres other issues that Im working on. If anyone has advice on code to change to fix that please open it as an issue with your advice
 
-## Currently working features
+## Currently working features 
+** Expect the below to bounce up and down as things are added **
 - Water change quick reference calculator
 - Min/Max shoal size calc
 - Ph calculation
