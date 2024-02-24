@@ -54,7 +54,7 @@ _________________________________________________________________________
 > 1. Currently theres an issue with showing tables incorrectly when not showing in fullscreen. At some point I plan to fix this but currently theres other issues that Im working on. If anyone has advice on code to change to fix that please open it as an issue with your advice
 
 ## Currently working features 
-** Expect the below to bounce up and down as things are added **
+* Expect the below to bounce up and down as things are added *
 - Water change quick reference calculator
 - Min/Max shoal size calc
 - Ph calculation
