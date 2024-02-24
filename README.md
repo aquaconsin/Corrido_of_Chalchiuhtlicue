@@ -49,7 +49,9 @@ _________________________________________________________________________
 
 
 ## Major issues not yet fixed
-Currently theres an issue with showing tables incorrectly when not showing in fullscreen. At some point I plan to fix this but currently theres other issues that Im working on. If anyone has advice on code to change to fix that please open it as an issue with your advice
+
+>[!WARNING]
+> 1. Currently theres an issue with showing tables incorrectly when not showing in fullscreen. At some point I plan to fix this but currently theres other issues that Im working on. If anyone has advice on code to change to fix that please open it as an issue with your advice
 
 ## Currently working features
 - Water change quick reference calculator
@@ -66,7 +68,7 @@ Currently theres an issue with showing tables incorrectly when not showing in fu
 - Multiple food sources per fish
 - Plants (its looking a bit more complicated than expected for the ideas I originally had)
 - Jumper/tank lid warning (maybe with water hieght reduction advice based on jump hieght but probably not - would need to take into account during water changes and stocking as well as other unforeseen areas)
-- 
+- some kind of version id so that cards can be updated if need be 
 
 
 
