@@ -33,7 +33,7 @@ My understanding as it stands is that these are the steps on windows at least:
   2. Install pip
   3. Install requirements (stated above maybe)
   4. Open command line
-  5. type in `python3 ./fishcalc.py` and it should run? (I have never attempted this before but read some other github pages)
+  5. type in `python3 ./fishcalc.py` and it should run? (I have never attempted this before but read it on another github page once)
 
 -----
 
@@ -51,10 +51,22 @@ _________________________________________________________________________
 ## Major issues not yet fixed
 Currently theres an issue with showing tables incorrectly when not showing in fullscreen. At some point I plan to fix this but currently theres other issues that Im working on. If anyone has advice on code to change to fix that please open it as an issue with your advice
 
+## Currently working features
+- Water change quick reference calculator
+- Min/Max shoal size calc
+- Ph calculation
+- Temperature calculation
+- Daily nitrate production calc based on food input
 
 
-
-
+## Hoping to get working features
+- Warning if cant be housed with fish
+- Sex ratio calculator and warning system
+- Fishroom temperature heater needs calculator
+- Multiple food sources per fish
+- Plants (its looking a bit more complicated than expected for the ideas I originally had)
+- Jumper/tank lid warning (maybe with water hieght reduction advice based on jump hieght but probably not - would need to take into account during water changes and stocking as well as other unforeseen areas)
+- 
 
 
 
