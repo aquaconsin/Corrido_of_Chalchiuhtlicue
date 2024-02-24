@@ -71,7 +71,10 @@ _________________________________________________________________________
 - Multiple food sources per fish
 - Plants (its looking a bit more complicated than expected for the ideas I originally had)
 - Jumper/tank lid warning (maybe with water hieght reduction advice based on jump hieght but probably not - would need to take into account during water changes and stocking as well as other unforeseen areas)
-- some kind of version id so that cards can be updated if need be 
+- some kind of version id so that cards can be updated if need be
+- stocking calculator based on the Rachel O'Leary method (volumetric inch based)
+- tank volume based on tank dimensions (possibly also including things like how substrate will remove a certain ammount)
+- 
 
 
 
