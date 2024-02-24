@@ -53,8 +53,10 @@ _________________________________________________________________________
 >[!WARNING]
 > 1. Currently theres an issue with showing tables incorrectly when not showing in fullscreen. At some point I plan to fix this but currently theres other issues that Im working on. If anyone has advice on code to change to fix that please open it as an issue with your advice
 
-## Currently working features 
-* Expect the below to bounce up and down as things are added *
+## Current Developments
+*Expect the below to bounce up and down as things are added*
+
+### Currently working features 
 - Water change quick reference calculator
 - Min/Max shoal size calc
 - Ph calculation
@@ -62,7 +64,7 @@ _________________________________________________________________________
 - Daily nitrate production calc based on food input
 
 
-## Hoping to get working features
+### Hoping to get working features
 - Warning if cant be housed with fish
 - Sex ratio calculator and warning system
 - Fishroom temperature heater needs calculator
