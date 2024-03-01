@@ -74,7 +74,7 @@ _________________________________________________________________________
 - some kind of version id so that cards can be updated if need be
 - stocking calculator based on the Rachel O'Leary method (volumetric inch based)
 - tank volume based on tank dimensions (possibly also including things like how substrate will remove a certain ammount)
-- 
+- currently food only works for one option per fish but trying to expand it to multiple at a ratio
 
 
 
